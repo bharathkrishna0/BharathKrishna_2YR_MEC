@@ -1,4 +1,1 @@
-# BharathKrishna_2YR_MEC
-FOR code a pookalam
-by FOSS MEC
-with love
+This project uses Python's Turtle graphics library to replicate a traditional Kerala floral pookalam .
